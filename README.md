@@ -1,2 +1,2 @@
 # new_project
-My first repository in github
+My first repository on github
